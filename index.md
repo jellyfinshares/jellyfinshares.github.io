@@ -1,163 +1,50 @@
-## Welcome to PlexShares
+## Welcome to Jellyfin Shares
 
 r/plexshares was the biggest Reddit community where you could choose a plex provider. The r/plexshares Reddit has been closed on 05/19/2022.
 
 Below you can find a list of providers.
 
-If you are a provider and would like to be added/removed from the list please submit a request here: [https://forms.gle/ogNVNq2ySuD44vmq5](https://forms.gle/ogNVNq2ySuD44vmq5).
+If you are a provider and would like to be added/removed from the list please submit a request here: https://forms.gle/5pSXN7XqkDjFoMD96.
 
-## Plex share providers
+## Jellyfin Share providers
 
-### Jill Media
-- Website - Yes
-- Discord - [https://discord.gg/fnrR2FFcun](https://discord.gg/fnrR2FFcun)
-- Content - 41K M, 12K TV Shows / Anime, Kids, 4K Movies & TV Shows
-- Server location - Canada/USA
-- CDN - Yes
-- Prices - Starting at 7$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Card
+### Omegafin
+- Website: https://esmailelbob.xyz
+- Discord: https://discord.gg/omegaplex-1241288027561660458
+- Telegram: https://t.me/esmailebob
+- Content: 4K and remux movies, TV shows, Anime, Music, eBooks, Audiobooks and Adult.
+- Location(s): Germany
+- CDN(s): Mo
+- Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
+- Trials: Yes, 3 days.
+- Payment type: Stripe, PayPal and Crypto.
+- Other/Notes: We offer IPTV too!
 
-### HDBits
-- Website - Yes
-- Discord - [https://discord.gg/hdbits](https://discord.gg/hdbits)
-- Content - 57K+ M, 19K+ TV Shows / Anime, 4K HDR, 4K DV and REMUX
-- Server location - EU & US
-- CDN - No (but good peering)
-- Prices - 7$/month, multiple plans
-- Trials - Yes
-- Payment type - Paypal, Crypto, Card 
+## Jellyfin appbox providers
 
-### Nocturno
-- Website - No 
-- Discord - [https://discord.com/invite/4ZpEXKVn8u](https://discord.com/invite/4ZpEXKVn8u)
-- Content - 44K M, 15K TV Shows / 4K, Kids TV, Anime
-- Server location - EU & US
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
+### Omegafin
+- Website: https://esmailelbob.xyz
+- Discord: https://discord.gg/omegaplex-1241288027561660458
+- Telegram: https://t.me/esmailebob
+- Services: Storage setup (500TB+ of media), Plex setup, Fully automated setup with arrs or etc... .
+- Backbone(s): OVH, Hetzner
+- Location(s): Depends on which backbone you choose.
+- CDN(s): Mo
+- Pricing: Starts at only $50 USD.
+- Payment type: Stripe, PayPal and Crypto.
+- Other/Notes: We offer IPTV too!
 
-### ZyfServer
-- Website - No
-- Discord - [https://discord.com/invite/pDtBCKSj5v](https://discord.com/invite/pDtBCKSj5v)
-- Content - 35K M, 10K TV Shows, 2800 Anime, Kids and 4K (Great anime collection)
-- Server location - EU
-- CDN - Yes
-- Prices - Starting at 10$/month, multiple plans
-- Payment type - Paypal, Crypto, Card
-
-### Pirate8
-- Website - No
-- Discord - [https://discord.gg/mRJkQt74aS](https://discord.gg/mRJkQt74aS)
-- Content - 71K M, 18K TV Shows / 4K, Anime, Kids TV
-- Server location - US
-- CDN - Yes
-- Prices - 14$/month
-- Trials - No
-- Payment type - Paypal, Crypto
-
-### Wings and Plex
-- Website - No
-- Discord - [https://discord.gg/pg635XCdmd](https://discord.gg/pg635XCdmd)
-- Content - 25K M, 6K TV Shows / 4K M & 4K TV
-- Server location - EU
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
-### C-MEDIA
-- Website - No
-- Discord - [https://discord.gg/vMr3wwkrbG](https://discord.gg/vMr3wwkrbG)
-- Content - 70K M, 20K TV Shows / 4K, 4K DV, Kids TV, Anime
-- Server location - US
-- CDN - Yes
-- Prices - $15/m 1 stream, aditional streams at 5$
-- Trials - 3$ for 48h
-- Payment type - Paypal, Crypto
-
-### Strm Cafe
-- Website - [https://strm.cafe](https://strm.cafe)
-- Discord - ?
-- Content - 70K M, 20K TV Shows / 4K, 4K DV, Anime
-- Server location - US
-- CDN - Yes
-- Prices - 15$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
-### CrashCourse
-- Website - No
-- Discord - [https://discord.gg/RhP8RpBB](https://discord.gg/RhP8RpBB)
-- Content - 20K M, 6.5K TV Shows / Anime, Kids, 4K
-- Server location - USA
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Trials - 24h
-- Payment type - Paypal, Crypto
-
-### Founder Plex
-- Website - No
-- Discord - [https://discord.gg/kxB2bPkCNJ](https://discord.gg/kxB2bPkCNz)
-- Content - 33K M, 9K TV Shows / 4K, Kids
-- Server location - US & NL
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
-### Dunder Plex
-- Website - No
-- Discord - [https://discord.gg/WfvCHm7zbD](https://discord.gg/WfvCHm7zbz)
-- Content - 33K M, 9K TV Shows / 4K, Anime 
-- Server location - US 
-- CDN - ?
-- Prices - 10$/month, multiple plans
-- Trials - No
-- Payment type - Paypal, Crypto
-
-### PlexStory Inc
-- Website - No
-- Discord -  [https://discord.gg/QZm8UmQjhY](https://discord.gg/QZm8UmQjhz)
-- Content - 27K M, 10K TV Shows / 4K, Anime 
-- Server location - ?
-- CDN - ?
-- Prices - 11$/month, multiple plans
-- Trials - No
-- Payment type - Paypal
-
-### Plex 'N Chill
-- Website - [https://plexnchill.plexmanager.com](https://plexnchill.plexmanager.com)
-- Discord -  [https://discord.gg/unhUcm5geD](https://discord.gg/unhUcm5geD)
-- Content - 30K M, 10K TV Shows / 4K, 4K DV, Anime, Kids, Foreign, Sports, Audiobooks 
-- Server location - US & EU
-- CDN - Yes
-- Prices - 10$/month, multiple plans
-- Trials - Yes
-- Payment type - Paypal
-
-### Rogue Streamz
-- Website - [roguestreamz.cc](http://roguestreamz.cc/)
-- Discord -  [discord.gg/roguestreamz](https://discord.com/invite/roguestreamz)
-- Content - 16K M, 7K TV Shows / 4K, Anime, Kids
-- Server location - US & EU
-- CDN - Yes - CloudFlare
-- Prices - 8$/month, multiple plans
-- Trials - ?
-- Payment type - Paypal
-
-## Plex appbox providers
-Work in progress.
-
+  
 ## Emby Share providers
-Work in progress.
+Add yours here.
 
 ## Emby appbox providers
-Work in progress.
+Add yours here.
 
-## Baremetal Providers
-Work in progress.
+## Plex Share providers
+Add yours here.
 
+## Plex appbox providers
+Add yours here.
 
-If you are a provider please submit a request at [https://forms.gle/ogNVNq2ySuD44vmq5](https://forms.gle/ogNVNq2ySuD44vmq5)
+This website created by https://github.com/EsmailELBoBDev2, All rights reserved.
