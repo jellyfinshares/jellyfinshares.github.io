@@ -14,7 +14,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Telegram: [https://t.me/esmailebob](https://t.me/esmailebob).
 - Content: 4K and remux movies, TV shows, Anime, Music, eBooks, Audiobooks and Adult.
 - Location(s): Germany
-- CDN(s): Mo
+- CDN(s): No
 - Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
 - Trials: Yes, 3 days.
 - Payment type: Stripe, PayPal and Crypto.
@@ -29,11 +29,10 @@ If you are a provider and would like to be added/removed from the list please su
 - Services: Storage setup (500TB+ of media), Plex setup, Fully automated setup with arrs or etc... .
 - Backbone(s): OVH, Hetzner
 - Location(s): Depends on which backbone you choose.
-- CDN(s): Mo
+- CDN(s): No
 - Pricing: Starts at only $50 USD.
 - Payment type: Stripe, PayPal and Crypto.
 - Other/Notes: We offer IPTV too!
-
   
 ## Emby Share providers
 Add yours here.
