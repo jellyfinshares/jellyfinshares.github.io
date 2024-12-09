@@ -30,7 +30,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Backbone(s): OVH, Hetzner
 - Location(s): Depends on which backbone you choose.
 - CDN(s): No
-- Pricing: Starts at only $50 USD.
+- Pricing: One time setup fee that starts at only $50 USD.
 - Payment type: Stripe, PayPal and Crypto.
 - Other/Notes: We offer IPTV too!
   
@@ -45,5 +45,7 @@ Add yours here.
 
 ## Plex appbox providers
 Add yours here.
+
+<hr>
 
 This website created by [Esmail EL BoB](https://github.com/EsmailELBoBDev2), All rights reserved.
