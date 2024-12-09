@@ -13,37 +13,37 @@ If you are a provider and would like to be added/removed from the list please su
 - Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
 - Telegram: [https://t.me/esmailebob](https://t.me/esmailebob).
 - Content: 4K and remux movies, TV shows, Anime, Music, eBooks, Audiobooks and Adult.
-- Location(s): Germany
-- CDN(s): No
+- Location(s): Germany.
+- CDN(s): No.
 - Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
 - Trials: Yes, 3 days.
 - Payment type: Stripe, PayPal and Crypto.
 - Other/Notes: We offer IPTV too, only $10 USD/Month!
 
-## Jellyfin appbox providers
+## Jellyfin dedicated server/appbox providers
 
-### Omegafin
+### Omegafin - Dedicated Server
 - Website: [https://esmailelbob.xyz](https://esmailelbob.xyz).
 - Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
 - Telegram: [https://t.me/esmailebob](https://t.me/esmailebob).
 - Services: Storage setup (500TB+ of media), Plex setup, Fully automated setup with arrs or etc... .
-- Backbone(s): OVH, Hetzner
+- Backbone(s): OVH, Hetzner.
 - Location(s): Depends on which backbone you choose.
-- CDN(s): No
+- CDN(s): No.
 - Pricing: One time setup fee that starts at only $50 USD.
 - Payment type: Stripe, PayPal and Crypto.
-- Other/Notes: We offer IPTV too!
+- Other/Notes: Prices are not fixed so we can agree on good price for the both of us.
   
 ## Emby Share providers
 Add yours here.
 
-## Emby appbox providers
+## Emby dedicated server/appbox providers
 Add yours here.
 
 ## Plex Share providers
 Add yours here.
 
-## Plex appbox providers
+## Plex dedicated server/appbox providers
 Add yours here.
 
 <hr>
