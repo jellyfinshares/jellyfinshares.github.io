@@ -18,7 +18,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
 - Trials: Yes, 3 days.
 - Payment type: Stripe, PayPal and Crypto.
-- Other/Notes: We offer IPTV too, starts at $10 USD/Month.
+- Other/Notes: We offer IPTV too, only $10 USD/Month!
 
 ## Jellyfin appbox providers
 
