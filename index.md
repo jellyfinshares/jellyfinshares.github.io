@@ -20,6 +20,17 @@ If you are a provider and would like to be added/removed from the list please su
 - Payment type: Stripe, PayPal and Crypto.
 - Other/Notes: We offer IPTV too, only $10 USD/Month!
 
+### JellyCine Society
+- Website: [https://jellycine.org](https://jellycine.org).
+- Discord: [https://discord.gg/qF3rYeHz3G](https://discord.gg/qF3rYeHz3G).
+- Telegram: [https://t.me/Black_Serpent](https://t.me/Black_Serpent).
+- Content: Movies, TV shows.
+- Location(s): Finland.
+- CDN(s): No.
+- Pricing: $1 USD, $2 USD, $3.5 USD /Month.
+- Trials: Yes, 3 days.
+- Payment type: PayPal and Crypto.
+
 ## Jellyfin dedicated server/appbox providers
 
 ### Omegafin - Dedicated Server
