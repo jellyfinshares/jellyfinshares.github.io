@@ -1,2 +1,5 @@
-theme: minima:
-  skin: dark
+theme: minima
+remote_theme: jekyll/minima
+
+minima:
+  skin: auto
