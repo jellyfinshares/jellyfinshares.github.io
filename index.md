@@ -14,7 +14,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Telegram: [https://t.me/esmailebob](https://t.me/esmailebob).
 - Content: 4K and remux movies, TV shows, Anime, Music, eBooks, Audiobooks and Adult.
 - Location(s): Germany.
-- CDN(s): No.
+- CDN(s): Yes.
 - Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
 - Trials: Yes, 3 days.
 - Payment type: Stripe, PayPal and Crypto.
