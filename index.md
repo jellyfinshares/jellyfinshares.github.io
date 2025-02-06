@@ -40,7 +40,7 @@ If you are a provider and would like to be added/removed from the list please su
 - Services: Storage setup (500TB+ of media), Plex setup, Fully automated setup with arrs or etc... .
 - Backbone(s): OVH, Hetzner.
 - Location(s): Depends on which backbone you choose.
-- CDN(s): No.
+- CDN(s): Yes.
 - Pricing: One time setup fee that starts at only $50 USD.
 - Payment type: Stripe, PayPal and Crypto.
 - Other/Notes: Prices are not fixed so we can agree on good price for the both of us.
