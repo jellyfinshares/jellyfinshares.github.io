@@ -1,1 +1,2 @@
-theme: minima-dark
+theme: minima:
+  skin: dark
