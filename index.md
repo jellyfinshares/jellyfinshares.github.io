@@ -8,18 +8,6 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Jellyfin Share providers
 
-### Omegafin
-- Website: [https://esmailelbob.xyz](https://esmailelbob.xyz).
-- Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
-- Telegram: [https://t.me/esmailebob](https://t.me/esmailebob).
-- Content: 4K and remux movies, TV shows, Anime, Music, eBooks, Audiobooks and Adult.
-- Location(s): Germany.
-- CDN(s): Yes.
-- Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
-- Trials: Yes, 3 days.
-- Payment type: Stripe, PayPal and Crypto.
-- Other/Notes: We offer IPTV too, only $10 USD/Month!
-
 ### JellyCine Society
 - Website: [https://jellycine.org](https://jellycine.org).
 - Discord: [https://discord.gg/qF3rYeHz3G](https://discord.gg/qF3rYeHz3G).
@@ -33,29 +21,58 @@ If you are a provider and would like to be added/removed from the list please su
 
 ## Jellyfin dedicated server/appbox providers
 
-### Omegafin - Dedicated Server
-- Website: [https://esmailelbob.xyz](https://esmailelbob.xyz).
+### VERSE - Dedicated Server
+- Website: [https://omegafin.surge.sh](https://omegafin.surge.sh).
 - Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
-- Telegram: [https://t.me/esmailebob](https://t.me/esmailebob).
-- Services: Storage setup (500TB+ of media), Plex setup, Fully automated setup with arrs or etc... .
+- Services: Storage setup (1PB+ of media), Plex/Emby/Jellyfin setup, Fully automated setup with arrs or etc... .
 - Backbone(s): OVH, Hetzner.
 - Location(s): Depends on which backbone you choose.
 - CDN(s): Yes.
 - Pricing: One time setup fee that starts at only $50 USD.
-- Payment type: Stripe, PayPal and Crypto.
+- Payment type: Stripe and Crypto.
 - Other/Notes: Prices are not fixed so we can agree on good price for the both of us.
   
 ## Emby Share providers
-Add yours here.
+
+### VERSE
+- Website: [https://omegafin.surge.sh](https://omegafin.surge.sh).
+- Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
+- Content: 4K and remux movies, TV shows, Anime and Adult.
+- Location(s): EU.
+- CDN(s): Yes.
+- Pricing: $12 USD/Month - One plan, Downloads, Transcoding and everything allowed.
+- Trials: Yes, 3 days.
+- Payment type: Stripe and Crypto.
+- Other/Notes: We offer IPTV too, only $12 USD/Month!
 
 ## Emby dedicated server/appbox providers
-Add yours here.
+
+### VERSE - Dedicated Server
+- Website: [https://omegafin.surge.sh](https://omegafin.surge.sh).
+- Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
+- Services: Storage setup (1PB+ of media), Plex/Emby/Jellyfin setup, Fully automated setup with arrs or etc... .
+- Backbone(s): OVH, Hetzner.
+- Location(s): Depends on which backbone you choose.
+- CDN(s): Yes.
+- Pricing: One time setup fee that starts at only $50 USD.
+- Payment type: Stripe and Crypto.
+- Other/Notes: Prices are not fixed so we can agree on good price for the both of us.
 
 ## Plex Share providers
 Add yours here.
 
 ## Plex dedicated server/appbox providers
-Add yours here.
+
+### VERSE - Dedicated Server
+- Website: [https://omegafin.surge.sh](https://omegafin.surge.sh).
+- Discord: [https://discord.gg/omegaplex-1241288027561660458](https://discord.gg/omegaplex-1241288027561660458).
+- Services: Storage setup (1PB+ of media), Plex/Emby/Jellyfin setup, Fully automated setup with arrs or etc... .
+- Backbone(s): OVH, Hetzner.
+- Location(s): Depends on which backbone you choose.
+- CDN(s): Yes.
+- Pricing: One time setup fee that starts at only $50 USD.
+- Payment type: Stripe and Crypto.
+- Other/Notes: Prices are not fixed so we can agree on good price for the both of us.
 
 <hr>
 
